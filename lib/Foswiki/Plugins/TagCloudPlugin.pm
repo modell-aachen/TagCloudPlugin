@@ -23,8 +23,8 @@ use vars qw(
   $isInitialized
 );
 
-$VERSION = '$Rev$';
-$RELEASE = "2";
+$VERSION = '1.0';
+$RELEASE = "1.0";
 $NO_PREFS_IN_TOPIC = 1;
 $SHORTDESCRIPTION = 'Renders a tag cloud given a list of terms';
 
